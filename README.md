@@ -4,14 +4,14 @@ A machine learning-based computer vision application designed to classify fruits
 
 ---
 
-## 🚀 Features
+## Features
 - Image Preprocessing & Feature Extraction: Utilizes OpenCV and Color Histograms to extract numerical features from images.
 - Machine Learning Models: Trained using classical ML algorithms (SVM and Decision Tree).
 - Interactive Web App: Built with Streamlit for real-time user predictions and smooth deployment.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Scikit-Learn (for SVM & Decision Tree models)
 - OpenCV & NumPy (for image processing)
